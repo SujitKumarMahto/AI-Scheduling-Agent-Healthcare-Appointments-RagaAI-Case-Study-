@@ -27,4 +27,12 @@ The UI opens in your browser. Use the tabs to navigate.
 ## Notes
 - Email/SMS are **simulated** by writing text files into `exports/`.
 - For real integrations, implement in `utils.py` (e.g., SMTP credentials or Twilio API).
+- <img width="1417" height="690" alt="Screenshot 2025-09-05 at 5 41 28 PM" src="https://github.com/user-attachments/assets/c6545b03-43ea-4cb9-a7eb-5577df1d7f26" />
+<img width="1403" height="681" alt="Screenshot 2025-09-05 at 5 41 44 PM" src="https://github.com/user-attachments/assets/376fa779-4478-43bf-9a47-2c2dbe66c903" />
+<img width="1393" height="668" alt="Screenshot 2025-09-05 at 5 42 07 PM" src="https://github.com/user-attachments/assets/f25d9a07-715b-4b23-82c0-c8e8ed5bd23b" />
+<img width="1374" height="662" alt="Screenshot 2025-09-05 at 5 42 25 PM" src="https://github.com/user-attachments/assets/9c7f23f4-305f-428e-a53a-22e90610e0ef" />
+
+
+
+
 
