@@ -1,0 +1,7 @@
+TO: mahtosujitkumar1997@gmail.com
+SUBJECT: Appointment Confirmed
+
+Your appointment with Dr. Rao at Bengaluru Clinic on 2025-09-08 10:30-11:30 is confirmed.
+Please complete the intake form attached or linked.
+
+Attachments: /Users/sujit/Downloads/INTERNSHIP/RagaAI/templates/New Patient Intake Form.pdf

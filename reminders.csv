@@ -1,0 +1,4 @@
+patient_id,email,phone,doctor,location,date,start,end,forms_filled,visit_confirmed,cancel_reason
+P001,krish.iyer0@example.com,+91-9177777868,Dr. Kapoor,Bengaluru Clinic,2025-09-09,13:00,14:00,Pending,Pending,
+NP-1756821422,mahtosujitkumar1997@gmail.com,9006359557,Dr. Rao,Bengaluru Clinic,2025-09-08,10:30,11:30,Pending,Pending,
+P001,krish.iyer0@example.com,+91-9177777868,Dr. Kapoor,Bengaluru Clinic,2025-09-09,15:30,16:30,Pending,Pending,

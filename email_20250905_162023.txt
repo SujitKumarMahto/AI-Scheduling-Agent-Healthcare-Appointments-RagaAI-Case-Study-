@@ -1,0 +1,7 @@
+TO: krish.iyer0@example.com
+SUBJECT: Appointment Confirmed
+
+Your appointment with Dr. Kapoor at Bengaluru Clinic on 2025-09-09 15:30-16:30 is confirmed.
+Please complete the intake form attached or linked.
+
+Attachments: /Users/sujit/Downloads/INTERNSHIP/RagaAI/templates/New Patient Intake Form.pdf
